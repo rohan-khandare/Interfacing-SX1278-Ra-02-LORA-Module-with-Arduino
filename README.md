@@ -14,3 +14,7 @@ Low Data Rate: Suitable for applications that require the transmission of small 
 - Asset tracking
 - Industrial IoT
 LoRa operates in unlicensed radio frequency bands, such as 433 MHz, 868 MHz, and 915 MHz, depending on the region. It uses a modulation technique called Chirp Spread Spectrum (CSS) to achieve long-range communication with robustness against interference.
+
+# Do pin confuguration as per the table provided
+# Make use of antennas to achive long distance data communication
+# Ground all gnd pins  
